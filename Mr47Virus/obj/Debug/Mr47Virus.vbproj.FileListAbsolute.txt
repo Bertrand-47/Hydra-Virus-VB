@@ -1,0 +1,10 @@
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\bin\Debug\Mr47Virus.exe.config
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\bin\Debug\Mr47Virus.exe
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\bin\Debug\Mr47Virus.pdb
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\bin\Debug\Mr47Virus.xml
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\obj\Debug\Mr47Virus.Form1.resources
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\obj\Debug\Mr47Virus.Resources.resources
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\obj\Debug\Mr47Virus.vbproj.GenerateResource.Cache
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\obj\Debug\Mr47Virus.exe
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\obj\Debug\Mr47Virus.xml
+c:\users\exploiter\documents\visual studio 2012\Projects\Mr47Virus\Mr47Virus\obj\Debug\Mr47Virus.pdb
